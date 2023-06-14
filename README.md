@@ -1,0 +1,1 @@
+# simple-diabetes-prediction
