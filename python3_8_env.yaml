@@ -1,0 +1,12 @@
+name: python3_8_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - seaborn
+  - statsmodels
