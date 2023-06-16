@@ -40,4 +40,4 @@ WORKDIR /simple-diabetes-prediction
 # mount the current directory on the host to /src in the container
 COPY . /simple-diabetes-prediction
 
-SHELL ["/bin/bash", "-c", "source ~/.bashrc && conda activate winedb_env.yaml"]
+SHELL ["/bin/bash", "-c", "source ~/.bashrc && conda activate python3_8_env.yaml"]
